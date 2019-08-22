@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="lib/active-query-builder.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/alarm-notification-client.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/alarm-notification-common.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/alarm-notification-designer.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/alarm-notification-gateway-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/alarm-notification-gateway.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/client-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/designer-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/gateway-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/gateway.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/guava.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ignition-common.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jfreechart.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jide-action.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jide-common.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jide-dock.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jquery-ui-core-6.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/opc-ua-client.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/opc-ua-common.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/opc-ua-gateway-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/opc-ua-gateway.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sfc-client-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sfc-common.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sfc-designer-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sfc-gateway-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sfc-gateway.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/simple-orm.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sql-bridge-common-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sql-bridge-designer-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sql-bridge-gateway.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/stack-client.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/stack-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/vision-client-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/vision-common.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/vision-designer-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/vision-gateway.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/wicket-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/wicket-datetime.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/wicket-extensions.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/wicket-request.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/wicket-util.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/metro.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javax.servlet-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

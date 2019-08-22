@@ -14,6 +14,7 @@ cp active-query-builder*.jar ${REPO}/active-query-builder.jar
 cp client-api*.jar ${REPO}/client-api.jar
 cd ${IGNITION}/common
 cp common.jar ${REPO}/ignition-common.jar
+cp jfree*.jar ${REPO}/jfreechart.jar
 cp jide-common*.jar ${REPO}/jide-common.jar
 cp guava-23.3-jre.jar ${REPO}/guava.jar
 cd ${IGNITION}/designer
@@ -23,7 +24,9 @@ cp jide-dock*.jar ${REPO}/jide-dock.jar
 cd ${IGNITION}/gateway
 cp gateway-8*.jar ${REPO}/gateway.jar
 cp gateway-api*.jar ${REPO}/gateway-api.jar
+cp javax.servlet-api*.jar ${REPO}/javax.servlet-api.jar
 cp jquery-ui-core-6.1.1.jar ${REPO}/jquery-ui-core-6.1.1.jar
+cp metro*.jar ${REPO}/metro.jar
 cp simple-orm*.jar ${REPO}/simple-orm.jar
 cp wicket-core*.jar ${REPO}/wicket-core.jar
 cp wicket-datetime*.jar ${REPO}/wicket-datetime.jar
