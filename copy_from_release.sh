@@ -25,7 +25,6 @@ cd ${IGNITION}/gateway
 cp gateway-8*.jar ${REPO}/gateway.jar
 cp gateway-api*.jar ${REPO}/gateway-api.jar
 cp javax.servlet-api*.jar ${REPO}/javax.servlet-api.jar
-cp jquery-ui-core-6.1.1.jar ${REPO}/jquery-ui-core-6.1.1.jar
 cp metro*.jar ${REPO}/metro.jar
 cp simple-orm*.jar ${REPO}/simple-orm.jar
 cp wicket-core*.jar ${REPO}/wicket-core.jar
@@ -44,14 +43,14 @@ cp alarm-notification-client-*.jar ${REPO}/alarm-notification-client.jar
 cp alarm-notification-common*.jar ${REPO}/alarm-notification-common.jar
 cp alarm-notification-designer-*.jar ${REPO}/alarm-notification-designer.jar
 cp alarm-notification-gateway-api*.jar ${REPO}/alarm-notification-gateway-api.jar
-cp alarm-notification-gateway-5*.jar ${REPO}/alarm-notification-gateway.jar
+cp alarm-notification-gateway-6*.jar ${REPO}/alarm-notification-gateway.jar
 jar -xf ../OPC-UA-module.modl
 cp stack-client-*.jar ${REPO}/stack-client.jar
 cp stack-core-*.jar ${REPO}/stack-core.jar
 cp opc-ua-client-*.jar ${REPO}/opc-ua-client.jar
 cp opc-ua-common-*.jar ${REPO}/opc-ua-common.jar
 cp opc-ua-gateway-api-*.jar ${REPO}/opc-ua-gateway-api.jar
-cp opc-ua-gateway-8*.jar ${REPO}/opc-ua-gateway.jar
+cp opc-ua-gateway-9*.jar ${REPO}/opc-ua-gateway.jar
 jar -xf "../SQL Bridge-module.modl"
 cp sql-bridge-common-*.jar ${REPO}/sql-bridge-common-api.jar
 cp sql-bridge-designer-*.jar ${REPO}/sql-bridge-designer-api.jar
@@ -61,7 +60,7 @@ cp sfc-client-*.jar ${REPO}/sfc-client-api.jar
 cp sfc-common*.jar ${REPO}/sfc-common.jar
 cp sfc-designer-*.jar ${REPO}/sfc-designer-api.jar
 cp sfc-gateway-api*.jar ${REPO}/sfc-gateway-api.jar
-cp sfc-gateway-4*.jar ${REPO}/sfc-gateway.jar
+cp sfc-gateway-5*.jar ${REPO}/sfc-gateway.jar
 jar -xf ../Vision-module.modl
 cp vision-client-*.jar ${REPO}/vision-client-api.jar
 cp vision-common*.jar ${REPO}/vision-common.jar
