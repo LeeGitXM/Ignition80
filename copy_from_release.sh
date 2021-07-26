@@ -44,13 +44,6 @@ cp alarm-notification-common*.jar ${REPO}/alarm-notification-common.jar
 cp alarm-notification-designer-*.jar ${REPO}/alarm-notification-designer.jar
 cp alarm-notification-gateway-api*.jar ${REPO}/alarm-notification-gateway-api.jar
 cp alarm-notification-gateway-6*.jar ${REPO}/alarm-notification-gateway.jar
-jar -xf ../OPC-UA-module.modl
-cp stack-client-*.jar ${REPO}/stack-client.jar
-cp stack-core-*.jar ${REPO}/stack-core.jar
-cp opc-ua-client-*.jar ${REPO}/opc-ua-client.jar
-cp opc-ua-common-*.jar ${REPO}/opc-ua-common.jar
-cp opc-ua-gateway-api-*.jar ${REPO}/opc-ua-gateway-api.jar
-cp opc-ua-gateway-9*.jar ${REPO}/opc-ua-gateway.jar
 jar -xf "../SQL Bridge-module.modl"
 cp sql-bridge-common-*.jar ${REPO}/sql-bridge-common-api.jar
 cp sql-bridge-designer-*.jar ${REPO}/sql-bridge-designer-api.jar

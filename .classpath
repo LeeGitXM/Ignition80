@@ -22,7 +22,6 @@
 	<classpathentry exported="true" kind="lib" path="lib/jide-action.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jide-common.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jide-dock.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/jquery-ui-core-6.1.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/opc-ua-client.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/opc-ua-common.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/opc-ua-gateway-api.jar"/>
