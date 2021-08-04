@@ -12,6 +12,8 @@ LIB=lib
 cd ${IGNITION}/client
 cp active-query-builder*.jar ${REPO}/active-query-builder.jar
 cp client-api*.jar ${REPO}/client-api.jar
+cp miglayout-core-*.jar ${REPO}/miglayout-core.jar
+cp miglayout-swing-*.jar ${REPO}/miglayout-swing.jar
 cd ${IGNITION}/common
 cp common.jar ${REPO}/ignition-common.jar
 cp jfree*.jar ${REPO}/jfreechart.jar
