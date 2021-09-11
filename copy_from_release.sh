@@ -16,6 +16,7 @@ cp miglayout-core-*.jar ${REPO}/miglayout-core.jar
 cp miglayout-swing-*.jar ${REPO}/miglayout-swing.jar
 cd ${IGNITION}/common
 cp common.jar ${REPO}/ignition-common.jar
+cp ia-gson*.jar ${REPO}/ia-gson.jar
 cp jfree*.jar ${REPO}/jfreechart.jar
 cp jide-common*.jar ${REPO}/jide-common.jar
 cp guava-23.3-jre.jar ${REPO}/guava.jar
