@@ -42,6 +42,7 @@
 	<classpathentry exported="true" kind="lib" path="lib/wicket-util.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/metro.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/javax.servlet-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ia-gson.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/miglayout-core.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/miglayout-swing.jar"/>
 	<classpathentry kind="output" path="bin"/>
