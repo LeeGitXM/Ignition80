@@ -41,12 +41,6 @@ cp wicket-util*.jar ${REPO}/wicket-util.jar
 IGNITION=${IGNITION_HOME}/user-lib/modules
 mkdir -p ${IGNITION}/tmp
 cd ${IGNITION}/tmp
-jar -xf ../Alarm*.modl
-cp alarm-notification-client-*.jar ${REPO}/alarm-notification-client.jar
-cp alarm-notification-common*.jar ${REPO}/alarm-notification-common.jar
-cp alarm-notification-designer-*.jar ${REPO}/alarm-notification-designer.jar
-cp alarm-notification-gateway-api*.jar ${REPO}/alarm-notification-gateway-api.jar
-cp alarm-notification-gateway-6*.jar ${REPO}/alarm-notification-gateway.jar
 jar -xf "../SQL Bridge-module.modl"
 cp sql-bridge-common-*.jar ${REPO}/sql-bridge-common-api.jar
 cp sql-bridge-designer-*.jar ${REPO}/sql-bridge-designer-api.jar
