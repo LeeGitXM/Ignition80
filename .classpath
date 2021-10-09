@@ -7,11 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry exported="true" kind="lib" path="lib/active-query-builder.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/alarm-notification-client.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/alarm-notification-common.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/alarm-notification-designer.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/alarm-notification-gateway-api.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/alarm-notification-gateway.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/client-api.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/designer-api.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/gateway-api.jar"/>

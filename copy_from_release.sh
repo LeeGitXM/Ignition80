@@ -28,6 +28,7 @@ cd ${IGNITION}/gateway
 cp gateway-8*.jar ${REPO}/gateway.jar
 cp gateway-api*.jar ${REPO}/gateway-api.jar
 cp javax.servlet-api*.jar ${REPO}/javax.servlet-api.jar
+cp jetty-webapp*.jar ${REPO}/jetty-webpp.jar
 cp metro*.jar ${REPO}/metro.jar
 cp simple-orm*.jar ${REPO}/simple-orm.jar
 cp wicket-core*.jar ${REPO}/wicket-core.jar
