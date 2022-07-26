@@ -19,7 +19,7 @@ cp common.jar ${REPO}/ignition-common.jar
 cp ia-gson*.jar ${REPO}/ia-gson.jar
 cp jfree*.jar ${REPO}/jfreechart.jar
 cp jide-common*.jar ${REPO}/jide-common.jar
-cp guava-23.3-jre.jar ${REPO}/guava.jar
+cp guava-26.0-jre.jar ${REPO}/guava.jar
 cd ${IGNITION}/designer
 cp designer*.jar ${REPO}/designer-api.jar
 cp jide-action*.jar ${REPO}/jide-action.jar
